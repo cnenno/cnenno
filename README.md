@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my Github! :wave:
 
-<!--
-**cnenno/cnenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am That Cyber Guy a.k.a. Corey 
+- :computer: I am a Cyber Security Professional and Veteran 
+- :keyboard: I do coding and help mentor other Cyber Security Professionals. 
+- :film_projector: I also five minute videos on on the world of Cyber Security, everything from news to how to pass that next certification :books:
 
-Here are some ideas to get you started:
+- :snake: I am currently building up my skills in Powershell and Python, but I also love BASH and Batch
+- :detective: I do programming for fun and for Digital Forensics and Incident Response 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Here is my linktree: https://linktr.ee/thatcyberguy5
+- 😄 Pronouns: He/Him 
+- ⚡ Fun Fact about me: I have traveled to 10 countries around the world doing InfoSec and I used to sing in rock bands! 	:metal:
+
